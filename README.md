@@ -1,6 +1,11 @@
 ### Hi there 👋
 ## I'm Faisal
 
+<br /> <br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faisal135711&theme=vue)
+
+
 <!--
 **Faisal135711/Faisal135711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
