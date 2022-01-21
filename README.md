@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" align="left"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" align="left"/>
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 <br /> <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faisal135711&theme=vue)
